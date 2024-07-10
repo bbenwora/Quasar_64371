@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Quasar App (quasar-64371)
 
 A Quasar Project
@@ -39,3 +40,6 @@ quasar build
 
 ### Customize the configuration
 See [Configuring quasar.config.js](https://v2.quasar.dev/quasar-cli-vite/quasar-config-js).
+=======
+# Quasar_64371
+>>>>>>> 43a35605541da9b0d449b73fab19f66bcc9ba929
